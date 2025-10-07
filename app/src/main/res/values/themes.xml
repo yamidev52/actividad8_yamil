@@ -21,6 +21,7 @@
         <item name="colorOnBackground">@color/on_light</item>
 
         <item name="fontFamily">@font/monserratregular</item>
+
     </style>
 
     <style name="Theme.Actividad8" parent="Base.Theme.Actividad8" />
