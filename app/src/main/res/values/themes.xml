@@ -1,8 +1,26 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Actividad8" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">@color/eminence</item>
+        <item name="colorOnPrimary">@color/on_dark</item>
+
+        <item name="colorPrimaryContainer">@color/indigo</item>
+        <item name="colorOnPrimaryContainer">@color/on_dark</item>
+
+        <item name="colorSecondary">@color/thistle</item>
+        <item name="colorOnSecondary">@color/on_light</item>
+        <item name="colorSecondaryContainer">@color/english_violet</item>
+        <item name="colorOnSecondaryContainer">@color/on_dark</item>
+
+        <item name="colorTertiary">@color/english_violet</item>
+        <item name="colorOnTertiary">@color/on_dark</item>
+
+        <item name="colorSurface">@color/french_gray</item>
+        <item name="colorOnSurface">@color/on_light</item>
+        <item name="colorOnBackground">@color/on_light</item>
+
+        <item name="fontFamily">@font/monserratregular</item>
     </style>
 
     <style name="Theme.Actividad8" parent="Base.Theme.Actividad8" />
